@@ -1,10 +1,10 @@
-# Giftify - Gift Shop Application
+# modern-multicenter-oidc
 
-A beautiful and modern gift shop application built with React, Redux Toolkit, and Tailwind CSS.It securely built with OIDC.
+A beautiful and modern-multicenter-oidc application built with React, Redux Toolkit, and Tailwind CSS.It securely built with OIDC.
 Authentication is developed using Asgardeo IDP and also at secure from the vulnerabilities like CSRF,XSS and SQL injection.
 ## Features
 
-- 🎁 Browse beautiful gift items
+- 🎁 Browse beautiful items
 - 🛒 Add items to cart
 - 👤 User authentication (login/register)
 - 📱 Responsive design
